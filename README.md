@@ -1,4 +1,5 @@
 https://www.youtube.com/watch?v=u3YbNYAalDc&list=WL&index=58&t=920s
+https://www.digitalocean.com/community/tutorials/how-to-install-nginx-on-ubuntu-20-04
 
 # Tools
 
